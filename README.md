@@ -2,7 +2,7 @@
 This repository contains a collection of mini-projects commonly encountered in machine coding rounds of technical interviews. Each project is designed to assess problem-solving skills, code structure, and best practices in software development.
 
 ## Structure ##
-Each mini-project has its own dedicated repository within this parent repository. You can explore them individually to understand their implementation.
+Each mini-project has its own dedicated repository within this parent repository. You can explore them individually to understand their implementation. The mini - projects are stored as submodules in git. Hence their deployments are independent of each other.
 
 ## Purpose ##
 * To practice and improve coding skills for machine coding interview rounds.  
